@@ -1,2 +1,2 @@
 # odin-recipes
-project 1 from The Odin Project
+Project 1 from The Odin Project
